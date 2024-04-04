@@ -1,0 +1,279 @@
+repo_name: shashankgoyl/Hacktoberfest2022
+report_id: 1dbd5ef4a47a8c08b3088d89e0476637
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-04T15:54:26+00:00'
+requested_by: shashankgoyl
+provider: github
+branch: master
+detected_tools_count: 21
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/js-tokens/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/js-tokens/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Newsletter-Signup/package-lock.json
+  detection_source: Program's_Contributed_By_Contributors/Newsletter-Signup/package.json
+  last_updated_by: Subha-5
+  last_updated_on: 2022-10-10 12:19:08.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/loose-envify/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/loose-envify/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/.github/workflows/auto-comment.yml
+  detection_source: ".github/workflows/auto-comment.yml"
+  last_updated_by: ANMOL AGARWAL
+  last_updated_on: 2022-10-07 12:31:59.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/js-tokens/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/js-tokens/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/react/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/react/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Newsletter-Signup/package-lock.json
+  detection_source: Program's_Contributed_By_Contributors/Newsletter-Signup/package.json
+  last_updated_by: Subha-5
+  last_updated_on: 2022-10-10 12:19:08.000000000 Z
+  vulnerabilities:
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Newsletter-Signup/package-lock.json
+  detection_source: Program's_Contributed_By_Contributors/Newsletter-Signup/package.json
+  last_updated_by: Subha-5
+  last_updated_on: 2022-10-10 12:19:08.000000000 Z
+- name: envify
+  description: Selectively replace Node-style environment variables with plain strings
+  package_url: https://www.npmjs.com/envify
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16578/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/loose-envify/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/loose-envify/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: esprima
+  description: ECMAScript parsing infrastructure for multipurpose analysis
+  package_url: https://www.npmjs.com/esprima
+  version: 4.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/js-tokens/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/js-tokens/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: loose-envify
+  description: Fast
+  package_url: https://www.npmjs.com/loose-envify
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18138/default_5813ab9c745152271a057cdab6eeded8939401f3.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/react/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/react/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 8.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/shashankgoyl/Hacktoberfest2022/blob/master/Program's_Contributed_By_Contributors/Weather-App/node_modules/loose-envify/package.json
+  detection_source: Program's_Contributed_By_Contributors/Weather-App/node_modules/loose-envify/package.json
+  last_updated_by: gulshanjakhon
+  last_updated_on: 2022-10-09 19:23:16.000000000 Z
